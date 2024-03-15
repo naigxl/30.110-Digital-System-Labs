@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Test case 1 passed.
+Test case 2 failed! q = 01001
+$stop called at time : 20 ns : File "D:/DSL/CCTA/CCTA.srcs/sim_1/new/q5_tb_1005502.v" Line 70
