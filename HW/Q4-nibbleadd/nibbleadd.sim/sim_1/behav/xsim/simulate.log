@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Test case 1 failed! q = 10110
+Test case 2 passed.
+$stop called at time : 200 ns : File "D:/DSL/nibbleadd/nibbleadd.srcs/sim_1/new/q4_tb_1005502.v" Line 61
